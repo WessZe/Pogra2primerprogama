@@ -42,7 +42,7 @@ public class Pogra2primerprogama {
             }
 
       case 2 -> {
-          int val11,val22,resta;
+          int resta;
           System.out.println("Ingrese el primer valor: ");
                 int val1 = entrada.nextInt();
                 System.out.println("Ingrese el segundo valor: ");
@@ -52,7 +52,7 @@ public class Pogra2primerprogama {
             }
 
       case 3 -> {
-          int val31,val32,multi;
+          int multi;
           System.out.println("Ingrese el primer valor: ");
                 int val1 = entrada.nextInt();
                 System.out.println("Ingrese el segundo valor: ");
@@ -62,7 +62,7 @@ public class Pogra2primerprogama {
             }
 
       case 4 -> {
-          double val41,val42,div;
+          double div;
           System.out.println("Ingrese el primer valor: ");
                 int val1 = entrada.nextInt();
                 System.out.println("Ingrese el segundo valor: ");
@@ -75,7 +75,7 @@ public class Pogra2primerprogama {
 
         
 
-        
+       
 
     }
 
